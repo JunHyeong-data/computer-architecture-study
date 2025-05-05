@@ -14,3 +14,5 @@
 5. [입출력](./05_입출력/)
 6. [전체 요약](./summary/정리노트.md)
 
+## 책표지
+![image](https://github.com/user-attachments/assets/cdf5fa35-15f1-4a2d-b3dc-9e8de307e667)
