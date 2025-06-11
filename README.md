@@ -12,7 +12,7 @@
 3. [데이터](./03_데이터/)
 4. [명령어](./04_명령어/)
 5. [입출력](./05_입출력/)
-6. [전체 요약](./summary/정리노트.md)
+6. [CPU 성능 향상 기법](./06_CPU_성능_향상_기법/)
 
 ## 책표지
 ![image](https://github.com/user-attachments/assets/cdf5fa35-15f1-4a2d-b3dc-9e8de307e667)
